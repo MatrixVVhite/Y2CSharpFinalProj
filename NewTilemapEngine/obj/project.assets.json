@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Commands/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CoreEngineHierarchy": "1.0.0",
+          "MovementAndInteraction": "1.0.0",
+          "Positioning": "1.0.0",
+          "Rendering": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Commands.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Commands.dll": {}
+        }
+      },
+      "CoreEngineHierarchy/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Positioning": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CoreEngineHierarchy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreEngineHierarchy.dll": {}
+        }
+      },
+      "MovementAndInteraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MovementAndInteraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovementAndInteraction.dll": {}
+        }
+      },
+      "Positioning/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Positioning.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Positioning.dll": {}
+        }
+      },
+      "Rendering/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CoreEngineHierarchy": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Rendering.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Rendering.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Commands/1.0.0": {
+      "type": "project",
+      "path": "../Commands/Commands.csproj",
+      "msbuildProject": "../Commands/Commands.csproj"
+    },
+    "CoreEngineHierarchy/1.0.0": {
+      "type": "project",
+      "path": "../CoreEngineHierarchy/CoreEngineHierarchy.csproj",
+      "msbuildProject": "../CoreEngineHierarchy/CoreEngineHierarchy.csproj"
+    },
+    "MovementAndInteraction/1.0.0": {
+      "type": "project",
+      "path": "../MovementAndInteraction/MovementAndInteraction.csproj",
+      "msbuildProject": "../MovementAndInteraction/MovementAndInteraction.csproj"
+    },
+    "Positioning/1.0.0": {
+      "type": "project",
+      "path": "../Positioning/Positioning.csproj",
+      "msbuildProject": "../Positioning/Positioning.csproj"
+    },
+    "Rendering/1.0.0": {
+      "type": "project",
+      "path": "../Rendering/Rendering.csproj",
+      "msbuildProject": "../Rendering/Rendering.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Commands >= 1.0.0",
+      "CoreEngineHierarchy >= 1.0.0",
+      "Positioning >= 1.0.0",
+      "Rendering >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Yotam\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5\\NewTilemapEngine\\NewTilemapEngine.csproj",
+      "projectName": "NewTilemapEngine",
+      "projectPath": "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5\\NewTilemapEngine\\NewTilemapEngine.csproj",
+      "packagesPath": "C:\\Users\\Yotam\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5\\NewTilemapEngine\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Yotam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5\\Commands\\Commands.csproj": {
+              "projectPath": "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5\\Commands\\Commands.csproj"
+            },
+            "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5\\CoreEngineHierarchy\\CoreEngineHierarchy.csproj": {
+              "projectPath": "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5\\CoreEngineHierarchy\\CoreEngineHierarchy.csproj"
+            },
+            "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5\\Positioning\\Positioning.csproj": {
+              "projectPath": "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5\\Positioning\\Positioning.csproj"
+            },
+            "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5\\Rendering\\Rendering.csproj": {
+              "projectPath": "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5\\Rendering\\Rendering.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

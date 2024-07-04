@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckersEngine", "CheckersEngine.csproj", "{A2C790B4-E9AF-4945-BD9B-4F3381ABE4C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Commands", "..\Commands\Commands.csproj", "{3332BCAF-EB83-4951-A3BE-38E49A3B8EA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreEngineHierarchy", "..\CoreEngineHierarchy\CoreEngineHierarchy.csproj", "{37F00F82-88C4-4ABB-AB1B-EE5CF91553CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "..\Demo\Demo.csproj", "{D619F925-9FE1-4F25-BFED-4F3ECDEDAD23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Positioning", "..\Positioning\Positioning.csproj", "{F7BC7670-290A-4525-8157-61E7232E1A9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rendering", "..\Rendering\Rendering.csproj", "{E822C243-6DEC-4876-B096-7E4900CE756D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovementAndInteraction", "..\MovementAndInteraction\MovementAndInteraction.csproj", "{BC89344E-0761-472F-AE8D-057FFD3D84D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTilemapEngine", "..\NewTilemapEngine\NewTilemapEngine.csproj", "{A9A3E50D-5F71-409A-8123-283DC3DC01E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C790B4-E9AF-4945-BD9B-4F3381ABE4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C790B4-E9AF-4945-BD9B-4F3381ABE4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C790B4-E9AF-4945-BD9B-4F3381ABE4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3332BCAF-EB83-4951-A3BE-38E49A3B8EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3332BCAF-EB83-4951-A3BE-38E49A3B8EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3332BCAF-EB83-4951-A3BE-38E49A3B8EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F00F82-88C4-4ABB-AB1B-EE5CF91553CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F00F82-88C4-4ABB-AB1B-EE5CF91553CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F00F82-88C4-4ABB-AB1B-EE5CF91553CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D619F925-9FE1-4F25-BFED-4F3ECDEDAD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D619F925-9FE1-4F25-BFED-4F3ECDEDAD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D619F925-9FE1-4F25-BFED-4F3ECDEDAD23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7BC7670-290A-4525-8157-61E7232E1A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BC7670-290A-4525-8157-61E7232E1A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BC7670-290A-4525-8157-61E7232E1A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E822C243-6DEC-4876-B096-7E4900CE756D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E822C243-6DEC-4876-B096-7E4900CE756D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E822C243-6DEC-4876-B096-7E4900CE756D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC89344E-0761-472F-AE8D-057FFD3D84D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC89344E-0761-472F-AE8D-057FFD3D84D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC89344E-0761-472F-AE8D-057FFD3D84D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC89344E-0761-472F-AE8D-057FFD3D84D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A3E50D-5F71-409A-8123-283DC3DC01E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A3E50D-5F71-409A-8123-283DC3DC01E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A3E50D-5F71-409A-8123-283DC3DC01E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E11B83C4-BDE9-4342-B6AE-FE3884ECF349}
+	EndGlobalSection
+EndGlobal
