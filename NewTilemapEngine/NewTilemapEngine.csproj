@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Commands\Commands.csproj" />
     <ProjectReference Include="..\CoreEngineHierarchy\CoreEngineHierarchy.csproj" />
+    <ProjectReference Include="..\MovementAndInteraction\MovementAndInteraction.csproj" />
     <ProjectReference Include="..\Positioning\Positioning.csproj" />
     <ProjectReference Include="..\Rendering\Rendering.csproj" />
   </ItemGroup>

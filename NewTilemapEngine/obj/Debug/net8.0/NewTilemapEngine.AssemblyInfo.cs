@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NewTilemapEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bba0901c7edaba36ef8ed995ec3cdab0afb8bad9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95802fc4929c4bd70b5963fc2ffa1776ac76d331")]
 [assembly: System.Reflection.AssemblyProductAttribute("NewTilemapEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NewTilemapEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
