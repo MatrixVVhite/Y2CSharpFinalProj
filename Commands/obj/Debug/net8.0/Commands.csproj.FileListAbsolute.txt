@@ -34,3 +34,12 @@ C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5\Comma
 C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5\Commands\obj\Debug\net8.0\Commands.pdb
 C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5\Commands\obj\Debug\net8.0\Commands.genruntimeconfig.cache
 C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5\Commands\obj\Debug\net8.0\ref\Commands.dll
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Commands\obj\Debug\net8.0\Commands.csproj.AssemblyReference.cache
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Commands\obj\Debug\net8.0\Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Commands\obj\Debug\net8.0\Commands.AssemblyInfoInputs.cache
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Commands\obj\Debug\net8.0\Commands.AssemblyInfo.cs
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Commands\obj\Debug\net8.0\Commands.csproj.CoreCompileInputs.cache
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Commands\obj\Debug\net8.0\Commands.sourcelink.json
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Commands\obj\Debug\net8.0\Commands.dll
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Commands\obj\Debug\net8.0\refint\Commands.dll
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Commands\obj\Debug\net8.0\Commands.pdb

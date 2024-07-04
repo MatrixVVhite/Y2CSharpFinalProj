@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/4Fj6Y1aFHEUcKbHsqVnJa/EL8zORnWItX/TB+NfyPhXGqKb30aLD1hZXDzIMGGllcGthMqXKcK13qMWV5cT0g==",
+  "dgSpecHash": "nGrDlN0heM8dZDSQImyfzAmiOJie8OVXkp9kWTgUZqthv0Nn131oWf+BoS34F/jlKBX+wenqoo4KIPOJe8K7wA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5\\CheckersEngine\\CheckersEngine.csproj",
+  "projectFilePath": "C:\\Users\\Yotam\\OneDrive\\Tiltan\\C# Projects\\Assignments\\Y2 Final Project\\V5.1\\Y2CSharpFinalProj\\CheckersEngine\\CheckersEngine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -44,3 +44,12 @@ C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5\Demo\
 C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5\Demo\obj\Debug\net8.0\Demo.pdb
 C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
 C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5\Demo\obj\Debug\net8.0\ref\Demo.dll
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Demo\obj\Debug\net8.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Demo\obj\Debug\net8.0\Demo.sourcelink.json
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Demo\obj\Debug\net8.0\Demo.dll
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Demo\obj\Debug\net8.0\refint\Demo.dll
+C:\Users\Yotam\OneDrive\Tiltan\C# Projects\Assignments\Y2 Final Project\V5.1\Y2CSharpFinalProj\Demo\obj\Debug\net8.0\Demo.pdb
