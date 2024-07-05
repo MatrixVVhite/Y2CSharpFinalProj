@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "Demo\Demo.csproj", "{440212EB-DC21-4F96-990F-69F97840F069}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewTilemapEngine", "NewTilemapEngine\NewTilemapEngine.csproj", "{51050DCE-D925-4DEE-AEF7-D3CE48562408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440212EB-DC21-4F96-990F-69F97840F069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440212EB-DC21-4F96-990F-69F97840F069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440212EB-DC21-4F96-990F-69F97840F069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440212EB-DC21-4F96-990F-69F97840F069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51050DCE-D925-4DEE-AEF7-D3CE48562408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51050DCE-D925-4DEE-AEF7-D3CE48562408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51050DCE-D925-4DEE-AEF7-D3CE48562408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51050DCE-D925-4DEE-AEF7-D3CE48562408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E11B83C4-BDE9-4342-B6AE-FE3884ECF349}
+	EndGlobalSection
+EndGlobal
