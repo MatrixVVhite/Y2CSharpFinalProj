@@ -1,2 +1,4 @@
-
-*.vsidx
+﻿**/obj
+**/bin
+**/.vs
+**/.idea
