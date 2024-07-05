@@ -6,7 +6,7 @@ using System.Numerics;
 
 namespace Commands
 {
-    internal class Program
+    internal class Test
     {
         static void Main(string[] args)
         {
